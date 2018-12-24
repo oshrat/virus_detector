@@ -1,6 +1,7 @@
 # A Virus Detector
 
 Usage: [prog] [path] [signature]
+
 The program gets 2 arguments: 
 1. A path to a local folder.
 2. A byte sequence as a virus signature.
