@@ -8,7 +8,7 @@ The program gets 2 arguments:
 At first, the program finds all the infected *ELF* files in the folder and its subfolders, and warn the user.
 Next, the user asked if he would like to delete the infected files (Y/N) - and the program respons accordingly.
 
-This solution is using the <ftw.h> library, for the dirent based solution contact me by private message.
+This solution is using the <ftw.h> library, stay tuned for the dirent based solution.
 
 Hope you'll find that useful,
 
