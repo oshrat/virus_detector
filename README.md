@@ -11,5 +11,6 @@ Next, the user asked if he would like to delete the infected files (Y/N) - and t
 This solution is using the <ftw.h> library, for the dirent based solution contact me by private message.
 
 Hope you'll find that useful,
+
 Oshrat.
 
