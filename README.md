@@ -1,5 +1,10 @@
-# a virus detector I made as an assignment.
+# A Virus Detector
 
-the program gets 2 arguments: a path and a virus signture, 
-and finds all the files in the path and its subfolders that are infected with the given virus.
+Usage: [prog] [path] [signature]
+The program gets 2 arguments: 
+1. A path to a local folder.
+2. A byte sequence as a virus signature.
+At first, the program finds all the infected *ELF* files in the folder and its subfolders, and warn the user.
+Next, the user asked if he would like to delete the infected files (Y/N) - and the program respons accordingly.
+
 
